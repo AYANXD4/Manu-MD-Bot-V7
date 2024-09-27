@@ -28,7 +28,7 @@
 //*
 //base by Manul Official
 //GitHub: @PKJACK
-//WhatsApp: +9947477777
+//WhatsApp: +3584573989422
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
 //   * Created By Github: manulofficial7.
 //   * Credit To Manul Official
