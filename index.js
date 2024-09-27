@@ -1,6 +1,6 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                    𝗠𝗔𝗡𝗨-𝗠𝗗  𝐁𝐎𝐓                                                 //
+//                                    JACK-XD  𝐁𝐎𝐓                                                 //
 //                                                                                                      //
 //                                         Ｖ：7.0                                                       //
 
@@ -20,19 +20,19 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : MANU-MD
-//  * @author : Manul Official
-//  * @youtube : https://www.youtube.com/@ManulOfficialTech
-//  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
+//  * @project_name : JACK-XD
+//  * @author : MR AYYAN
+//  * @youtube : https://www.youtube.com/@PAKCYBERTEAM99
+//  * @description : JACK-XD ,A Multi-functional whatsapp user bot.
 //*
 //*
 //base by Manul Official
-//GitHub: @manulofficial7
-//WhatsApp: +94742274855
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
-//   * Created By Github: manulofficial7.
+//GitHub: @JACKXD
+//WhatsApp: +3584573989422
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@PAKCYBERTEAM99
+//   * Created By Github: JACKXD.
 //   * Credit To Manul Official
-//   * © 2024 MANU-MD-V7.
+//   * © 2024 JACK-MD-BOT.
 // ⛥┌┤
 // */
 
