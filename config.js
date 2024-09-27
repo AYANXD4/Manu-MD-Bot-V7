@@ -1,6 +1,6 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                    𝗠𝗔𝗡𝗨-𝗠𝗗  𝐁𝐎𝐓                                                 //
+//                                    JACK-XD  BOT                                                 //
 //                                                                                                      //
 //                                         Ｖ：7.0                                                       //
 
@@ -20,15 +20,15 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : MANU-MD
+//  * @project_name : JACK-XD
 //  * @author : Manul Official
-//  * @youtube : https://www.youtube.com/@ManulOfficialTech
-//  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
+//  * @youtube : https://www.youtube.com/@PAKCYBERTEAM99
+//  * @description : JACK-XD ,A Multi-functional whatsapp user bot.
 //*
 //*
 //base by Manul Official
-//GitHub: @manulofficial7
-//WhatsApp: +94742274855
+//GitHub: @PKJACK
+//WhatsApp: +9947477777
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
 //   * Created By Github: manulofficial7.
 //   * Credit To Manul Official
@@ -44,9 +44,9 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "",
-ALIVE_IMG : process.env.ALIVE_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
-ALIVE_MSG : process.env.ALIVE_MSG || "Put your alive messege",
-MENU_IMG : process.env.MENU_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
+ALIVE_IMG : process.env.ALIVE_IMG || "https://whatsapp.com/channel/0029VadP2Cu59PwbTfRnE11i",
+ALIVE_MSG : process.env.ALIVE_MSG || "JACK XD 24/7",
+MENU_IMG : process.env.MENU_IMG || "https://whatsapp.com/channel/0029VadP2Cu59PwbTfRnE11i",
 MODE : process.env.MODE || "public",    
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 AUTO_BIO: process.env.AUTO_BIO || "true",
