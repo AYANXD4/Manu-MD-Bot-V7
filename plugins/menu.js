@@ -20,19 +20,19 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : MANU-MD
-//  * @author : Manul Official
-//  * @youtube : https://www.youtube.com/@ManulOfficialTech
-//  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
+//  * @project_name : JACK-XD
+//  * @author : JACK-XD Official
+//  * @youtube : https://www.youtube.com/@PAKCYBERTEAM
+//  * @description : JACK-XD ,A Multi-functional whatsapp user bot.
 //*
 //*
-//base by Manul Official
-//GitHub: @manulofficial7
-//WhatsApp: +94742274855
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
-//   * Created By Github: manulofficial7.
-//   * Credit To Manul Official
-//   * © 2024 MANU-MD-V7.
+//base by JACK-XD
+//GitHub: JACK-XD
+//WhatsApp: +3584573989422
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@PAKCYBERTEAM99
+//   * Created By Github: JACK-XD.
+//   * Credit To JACK-XD Official
+//   * © 2024 JACK-XD-V7.
 // ⛥┌┤
 // */
 
